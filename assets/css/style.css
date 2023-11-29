@@ -64,7 +64,7 @@ header a {
     border-bottom: 1px solid;
 }
 
-/* Navbar styles with dropdoen toggle */
+/* Navbar styles with dropdown toggle */
 nav {
     position: absolute;
     background-color: #ffffff;
@@ -176,7 +176,7 @@ main {
     background-color: rgba(0, 0, 0, .6);
     padding: 15px;
     text-align: center;
-    /* This will not wrap on screens of less than 400px wide. Each div will expand ti fill the 
+    /* This will not wrap on screens of less than 400px wide. Each div will expand to fill the 
     available space on its row */
     flex-basis: 200px;
     flex-grow: 1;
